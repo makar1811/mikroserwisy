@@ -1,1 +1,1 @@
-Todo
+Notatki ze szkolenia
