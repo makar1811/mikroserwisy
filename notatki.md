@@ -38,3 +38,15 @@ Spostrzeżenia:
 **Spring Boot Admin**
 
 https://github.com/codecentric/spring-boot-admin
+
+**Wzorce**
+
+Wszystkie:
+
+https://microservices.io/patterns/
+
+Saga Pattern:
+
+https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
+
+https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/
