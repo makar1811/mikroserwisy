@@ -43,9 +43,27 @@ Obraz, który należy odpalić na VirtualBox:
 
 https://justpaste.it/2qv00
 
-Maszyny na obrazie:
+**Metallb**
 
-- Ad
+Metallb umożliwia wystawienie puli adresów dla usług na zewnątrz.
+
+W szczególności może wystawić adres dla Ingresa, który będzie zewnętrznym LB.
+
+https://metallb.universe.tf/
+
+**Ingres**
+
+Zewnętrzny LB, który mapuje adresy na serwisy.
+
+https://metallb.universe.tf/
+
+**Istio**
+
+https://istio.io/docs/concepts/what-is-istio/
+
+**Blog Kubernetes hard way**
+
+https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 #### Wzorce
 
