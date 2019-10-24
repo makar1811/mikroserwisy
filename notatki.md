@@ -61,6 +61,10 @@ https://metallb.universe.tf/
 
 https://istio.io/docs/concepts/what-is-istio/
 
+**Rook**
+
+https://rook.io/
+
 **Blog Kubernetes hard way**
 
 https://github.com/kelseyhightower/kubernetes-the-hard-way
