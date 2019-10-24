@@ -1,4 +1,4 @@
-**Mapowanie klas (java mapping frameworks):**
+#### Mapowanie klas (java mapping frameworks)
 
 - Dozer
 - Orika
@@ -7,11 +7,13 @@
 
 https://www.baeldung.com/java-performance-mapping-frameworks
 
-**Kod źródłowy ze szkolenia:**
+#### Kod źródłowy ze szkolenia
 
 https://github.com/landrzejewski/spring-cloud-training/
 
-**Apache2 Utils**
+https://github.com/landrzejewski/kubernetes-training
+
+#### Apache2 Utils
 
 Narzędzie do testów wydajnościowych usług.
 
@@ -19,34 +21,48 @@ Instalacja: apt-get install apache2-utils
 
 Przykładowe wywołanie w [pliku](apache2-utils.txt).
 
-**Komponenty**
+#### Komponenty
 
 - Configuration (cloud config)
 - Discovery (eureka)
-- Gateway
+- Gateway (api gateway)
 - Agregacja, korelacja, prezentacja logów (zipkin, sleuth)
-- Panel admina (Spring Boot Admin - patrz niżej)
+- Panel admina ([Spring Boot Admin](https://github.com/codecentric/spring-boot-admin))
 
-**Kubernetes**
+#### Kubernetes
 
-Spostrzeżenia:
+https://kubernetes.io/docs/concepts/
+
+**Spostrzeżenia:**
 
 - Wielkie możliwości
-- Duży koszt wejścia (sam Kubernetes to min. 8 nodów: 3 master, 2 workery, lb...)
+- Duży koszt wejścia (sam Kubernetes to min. 8 nodów: 3 master, 2 worker nody, proxy/lb)
 - Zastosowanie dla dużej liczby maszyn (50, 100?)
 
-**Spring Boot Admin**
+Obraz, który należy odpalić na VirtualBox:
 
-https://github.com/codecentric/spring-boot-admin
+https://justpaste.it/2qv00
 
-**Wzorce**
+Maszyny na obrazie:
 
-Wszystkie:
+- Ad
+
+#### Wzorce
+
+**Wszystkie:**
 
 https://microservices.io/patterns/
 
-Saga Pattern:
+**Saga Pattern:**
 
 https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
 
 https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/
+
+**Docker Anti-Patterns**
+
+https://blog.couchbase.com/docker-container-anti-patterns/
+
+**Event sourcing / event logging**
+
+https://blog.couchbase.com/event-sourcing-event-logging-an-essential-microservice-pattern/
