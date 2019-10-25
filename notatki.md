@@ -103,3 +103,7 @@ https://blog.couchbase.com/event-sourcing-event-logging-an-essential-microservic
 **Książki**
 
 - OAuth in action
+
+#### Plugin Power Mode II :)
+
+https://plugins.jetbrains.com/plugin/8251-power-mode-ii/
