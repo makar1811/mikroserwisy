@@ -11,6 +11,8 @@ https://www.baeldung.com/java-performance-mapping-frameworks
 
 https://github.com/landrzejewski/spring-cloud-training/
 
+https://github.com/landrzejewski/spring-training/
+
 https://github.com/landrzejewski/kubernetes-training
 
 #### Apache2 Utils
@@ -69,6 +71,13 @@ https://rook.io/
 
 https://github.com/kelseyhightower/kubernetes-the-hard-way
 
+**Książki**
+
+- Docker in action
+- Docker in practice
+- Kubernetes in action
+- https://www.oreilly.com/
+
 #### Wzorce
 
 **Wszystkie:**
@@ -88,3 +97,9 @@ https://blog.couchbase.com/docker-container-anti-patterns/
 **Event sourcing / event logging**
 
 https://blog.couchbase.com/event-sourcing-event-logging-an-essential-microservice-pattern/
+
+#### OAuth
+
+**Książki**
+
+- OAuth in action
